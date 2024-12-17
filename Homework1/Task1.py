@@ -1,0 +1,11 @@
+num1=int(input("Enter first number for calculation: "))
+num2=int(input("Enter second number for calculation: "))
+
+print("Your addition eqaul to:")
+print(num1+num2)
+print("Your subtraction eqaul to:")
+print(num1-num2)
+print("Your multiplication eqaul to:")
+print(num1*num2)
+print("Your division eqaul to:")
+print(num1/num2)
